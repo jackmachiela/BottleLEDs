@@ -22,7 +22,7 @@ Make sure the FastLED library is install via Library Manager in the Arduino IDE.
 
 
 
-\![01 - Bottle Display](https://github.com/jackmachiela/BottleLEDs/blob/main/images/01%20-%20Bottle%20Display.jpg)
+![01 - Bottle Display](https://github.com/jackmachiela/BottleLEDs/blob/main/images/01%20-%20Bottle%20Display.jpg)
 
 
 
@@ -34,7 +34,7 @@ https://www.printables.com/model/659390-perfboard-70x30-case/files
 
 
 
-\![02 - Finished product](https://github.com/jackmachiela/BottleLEDs/blob/main/images/02%20-%20Finished%20product.JPG)
+![02 - Finished product](https://github.com/jackmachiela/BottleLEDs/blob/main/images/02%20-%20Finished%20product.JPG)
 
 
 
@@ -46,14 +46,14 @@ A quick fritzing layout:
 
 
 
-\![03 - Perfboard 70x30](https://github.com/jackmachiela/BottleLEDs/blob/main/images/03%20-%20Perfboard%2070x30.jpg)
+![03 - Perfboard 70x30](https://github.com/jackmachiela/BottleLEDs/blob/main/images/03%20-%20Perfboard%2070x30.jpg)
 
 
 My soldering skills aren't great, but it all works, so "good enough":
 
 
 
-\![04 - circuit (bottom)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/04%20-%20circuit%20(bottom).JPG)
+![04 - circuit (bottom)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/04%20-%20circuit%20(bottom).JPG)
 
 
 
@@ -61,11 +61,11 @@ This is the open case:
 
 
 
-\![05a - Open, with Nano](https://github.com/jackmachiela/BottleLEDs/blob/main/images/05a%20-%20Open%2C%20with%20Nano.JPG)
+![05a - Open, with Nano](https://github.com/jackmachiela/BottleLEDs/blob/main/images/05a%20-%20Open%2C%20with%20Nano.JPG)
 
 
 
-\![05b - Open, without Nano](https://github.com/jackmachiela/BottleLEDs/blob/main/images/05b%20-%20Open%2C%20without%20Nano.JPG)
+![05b - Open, without Nano](https://github.com/jackmachiela/BottleLEDs/blob/main/images/05b%20-%20Open%2C%20without%20Nano.JPG)
 
 
 
@@ -81,11 +81,11 @@ The other end of that cable is basically the end-cable from the LED strip, which
 
 
 
-\![06a - LED connector (without brace)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/06a%20-%20LED%20connector%20(without%20brace).JPG)
+![06a - LED connector (without brace)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/06a%20-%20LED%20connector%20(without%20brace).JPG)
 
 
 
-\![06b - LED connector (with brace)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/06b%20-%20LED%20connector%20(with%20brace).JPG)
+![06b - LED connector (with brace)](https://github.com/jackmachiela/BottleLEDs/blob/main/images/06b%20-%20LED%20connector%20(with%20brace).JPG)
 
 
 
